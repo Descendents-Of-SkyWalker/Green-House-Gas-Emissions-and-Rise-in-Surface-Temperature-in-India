@@ -1,0 +1,139 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    background-color: #ffffff;
+}
+.title {
+    height: 7vh;
+    text-align: center;
+    padding-top: 5px;
+}
+.title h2 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+.topbar {
+    height: 7vh;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+ul {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a {
+    color: #a9adaf;
+    text-decoration: none;
+}
+.active {
+    color: black;
+}
+.bar {
+    position: absolute;
+    border: 1px solid transparent;
+    background: #3e64ff;
+    transition: all 0.3s ease;
+}
+main {
+    height: 85vh;
+    display: flex;
+    background-color: #f3f9fb;
+}
+.sidebar {
+    height: 100%;
+    width: 20%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#stats {
+    width: 80%;
+    margin: auto;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.box1 {
+    height: 50%;
+    width: 80%;
+    background-color: #3e64ff;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+}
+.box1 pre {
+    color: #ffffff;
+    font-size: 0.9rem;
+    font-weight: 300;
+    font-style: italic;
+}
+.box2 {
+    height: 20%;
+    width: 80%;
+    background-color: #5edfff;
+    border-radius: 10px;
+    margin: auto;
+}
+.box3 {
+    height: 20%;
+    width: 80%;
+    background-color: #b2fcff;
+    border-radius: 10px;
+    margin: auto;
+}
+.container {
+    background-color: #edeef7;
+    background: linear-gradient(to right top, #b2fcff, #ecfcff);
+    height: 100%;
+    width: 80%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+#options {
+    background-color: #ffffff;
+    min-width: 10%;
+    height: 5%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+#options div {
+    border-radius: 15px;
+    height: 100%;
+    padding: 0px 5px;
+    display: flex;
+    align-items: center;
+    margin: 0px 3px;
+    font-size: 0.9rem;
+    font-weight: 300;
+    font-variant: normal;
+    cursor: pointer;
+}
+.selected {
+    background-color: #3e64ff;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+#display {
+    width: 90%;
+    height: 90%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid black; */
+}

@@ -1,0 +1,38 @@
+#f3f9fb
+#f6f5f5
+#fafaf6
+{
+    #494ca2
+    #8186d5
+    #c6cbef
+    #e3e7f1
+}
+{
+    #dfe2fe
+    #b1cbfa
+    #8e98f5
+    #7874f2
+}
+{
+    #553c8b
+    #9ea9f0
+    #ccc1ff
+    #ffeafe
+}
+--> {
+    #ecfcff
+    #b2fcff
+    #5edfff
+    #3e64ff
+}
+{
+    #206a5d
+    #81b214
+    #bfdcae
+    #f1f1e8
+}
+#1a2849
+#23374d
+#233567
+#293462
+#0c084c

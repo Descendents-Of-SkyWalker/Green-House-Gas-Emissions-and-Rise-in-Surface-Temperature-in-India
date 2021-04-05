@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>Data Visualization</title>
+</head>
+
+<body>
+    <header>
+        <nav class="title">
+            <h2>Greenhouse Gas Emissions and Rise in Temperature in India</h2>
+        </nav>
+        <nav class="topbar">
+            <div id="blank"></div>
+            <ul>
+                <li><a id="tabs" href="#">GHG Emission</a></li>
+                <li><a id="tabs" href="#">CO2 Profile</a></li>
+                <li><a id="tabs" href="#">Surface Temperature</a></li>
+                <li><a id="tabs" href="#">Analytics</a></li>
+                <div class="bar"></div>
+            </ul>
+            <a id="about" class="active" href="#">About</a>
+        </nav>
+    </header>
+    <main>
+        <nav class="sidebar">
+            <div id="stats">Statistics</div>
+            <div class="box1">
+                <pre></pre>
+            </div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+        </nav>
+        <div class="container">
+            <div id="options">
+            </div>
+            <div id="display">Main Container</div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
