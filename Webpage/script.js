@@ -1,8 +1,8 @@
 const bar = document.querySelector('.bar');
 const list = document.querySelectorAll('#tabs');
 const options = document.querySelector('#options');
-const tabs = [['historical emissions'], ['absolute', 'annual', 'cummulative'], ['city', 'major city', 'state', 'country', 'global'], []];
-const url = [['../Extracted Data India/GHG Emission India/historical_emissions_India.csv'], ['../Extracted Data India/CO2 Country Profile India/absolute-change-co2-India.csv', '../Extracted Data India/CO2 Country Profile India/annual-co2-emissions-India.csv', '../Extracted Data India/CO2 Country Profile India/cumulative-co-emissions-India.csv'], ['../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTByCityIndia.csv', '../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTByMajorCityIndia.csv', '../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTByStateIndia.csv', '../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTIndia.csv', '../Climate Change-Earth Surface Temperature/GlobalTemperatures.csv']];
+const tabs = [['historical emissions'], ['absolute', 'annual', 'cummulative'], ['major city', 'state', 'country', 'global'], []];
+const url = [['../Extracted Data India/GHG Emission India/historical_emissions_India.csv'], ['../Extracted Data India/CO2 Country Profile India/absolute-change-co2-India.csv', '../Extracted Data India/CO2 Country Profile India/annual-co2-emissions-India.csv', '../Extracted Data India/CO2 Country Profile India/cumulative-co-emissions-India.csv'], ['../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTByMajorCityIndia.csv', '../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTByStateIndia.csv', '../Extracted Data India/Climate Change-Earth Surface Temperature India/GLTIndia.csv', '../Climate Change-Earth Surface Temperature/GlobalTemperatures.csv']];
 let coords = list[0].getBoundingClientRect();
 setBounds(coords);
 setOptions(0);
