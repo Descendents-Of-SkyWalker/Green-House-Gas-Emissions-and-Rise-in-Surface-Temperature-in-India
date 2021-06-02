@@ -9,7 +9,7 @@
         rel="stylesheet">
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
-    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
     <title>Data Visualization</title>
 </head>
 
@@ -21,7 +21,6 @@
         <nav class="topbar">
             <div id="blank"></div>
             <ul>
-                <li><a id="tabs" href="#">GHG Emission</a></li>
                 <li><a id="tabs" href="#">CO2 Profile</a></li>
                 <li><a id="tabs" href="#">Surface Temperature</a></li>
                 <li><a id="tabs" href="#">Analytics</a></li>
@@ -32,19 +31,23 @@
     </header>
     <main>
         <nav class="sidebar">
-            <div id="stats">Statistics</div>
+            <div id="stats">About Data</div>
             <div class="box1">
                 <pre></pre>
             </div>
-            <div class="box2"></div>
-            <div class="box3"></div>
+            <div class="box2">
+                <pre></pre>
+            </div>
+            <div class="box3">
+                <pre></pre>
+            </div>
         </nav>
         <div class="container">
-            <div id="options">
-            </div>
-            <div id="display">Main Container</div>
+            <div id="options"></div>
+            <div id="display"></div>
         </div>
     </main>
+    <script src="visualise.js"></script>
     <script src="script.js"></script>
 </body>
 

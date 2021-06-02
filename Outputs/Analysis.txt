@@ -1,0 +1,19 @@
+CO2 PROFILE<br>
+Annual:<br>
+This graph shows the annual CO2 emission by India from year 1880 to 2012. These are based on the emissions from burning fossil fuels, or cement production. Emissions are measured in Metric tonnes CO2. In the graph here, the emission is represented as megatonnes of CO2. We can clearly see that in all these years, the emission has just increased. Prior to the Industrial Revolution, the growth was very low. But in the mid-20th century, the increase began. Till about the year 1950, the increase was almost constant. But we can observe an exponential rise in the amount of emission after that. This time is just after India became Independent. Indian large-scale industries increased and so did the CO2 emissions. Since then, the amount of CO2 emitted annually is just increasing. India emitted 1.94 billion t of CO2 in 2012!
+<br><br>Absolute:<br>
+This graph shows the change in CO2 emitted annually. The drop shows a decrease in emission than the previous year and the peaks show an increase. In 2012, the increase in CO2 emissions is the highest. In fact, it is the highest amount of increase till now in India. The increase was of 175.25 million t!
+<br><br>Cumulative:<br>
+This graph shows the total amount of CO2 emitted till that particular year. India has emitted 35.41 billion t of CO2 till 2012 whereas, the cumulative emission till year 1880 was 10.47 million t. That is an increase of 35.03 billion t!
+<br><br>Annual Share:<br>
+This graph shows the annual share of India in the global CO2 emissions in percentage. Till 1975, India’s share was about 1.5%. After that there is an increase in percentage. In 2012, India accounted for 5.58% of the global CO2 emission. The increase in % share is a result of increasing large-scale industries in India (time when Reliance was founded).
+<br><br><br>
+<b>SURFACE TEMPERATURE</b><br>
+Major City:<br>
+The following graphs depict the average temperature of major cities of the Indian subcontinent. The symbol map shows the average temperature from 1869 to 2012. The heat scale has been added, with the lowest average temperature being 24.821 degrees Celsius and the highest average temperature being 28.583 degrees Celsius.  The bar graph has is another way of representing the data. In both the graphs, we have used color mapping technique which adds another dimension to the graphic. Here we can identify that Madras (Chennai), has the highest average annual temperature among all major cities. It has been represented with the darkest shade of red according to the color map. The city of Pune is shown in the lightest shade as it has the lowest average annual temperature. 
+<br><br>Country:<br>
+The following bar graph shows the average temperature of India in gaps of 10 years from 1869 to 2012. We can see a steady increase in the temperature. Over these years, the average temperature has increased by 1.26 degrees Celsius! This is due to the increase in emission of GHG such as CO2. This is an obvious effect of global warming.
+<br><br>Global Average:<br>
+This graph shows the global average temperature in gaps of 10 years from 1869 to 2012. Even in this graph, we can see that the temperature is increasing as years pass. The stats we saw earlier about CO2 emissions show that emissions of such GHG is affecting our environment to a great extent. The increase in global average temperature is by 1.53 degrees Celsius. A major increase is visible around the 1970’s. These years are considered to be the years when global warming started posing severe problems.
+<br><br>Global Max:<br>
+This graph shows the maximum temperature globally in gaps of 10 years from 1869 to 2012. This too shows a similar increase in temperature globally as discussed earlier.
